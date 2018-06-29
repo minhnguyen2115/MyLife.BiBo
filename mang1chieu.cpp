@@ -104,7 +104,7 @@ int main()
 	cout << "nhap gia tri can them: ";
 	int x;
 	cin >> x;
-	
+	nhaptMang(myArray, nSize);
 	cout << "vi tri can them: ";
 	int idx;
 	cin >> idx;
@@ -116,7 +116,6 @@ int main()
 	int idx1;
 	cin >> idx1;
 	cout<<"ngo the sonaaaaaaaa";
-	xuatMang(myArray, nSize);
 	xoaGiaTri(myArray, nSize, idx1);
 	
 	xuatMang(myArray, nSize);
