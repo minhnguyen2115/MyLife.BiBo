@@ -119,6 +119,8 @@ int main()
 	xoaGiaTri(myArray, nSize, idx1);
 	
 	xuatMang(myArray, nSize);
+	
+	xoaGiaTri(myArray, nSize, idx1);
 
 	system("pause");
 	return 0;
