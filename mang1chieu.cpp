@@ -116,6 +116,7 @@ int main()
 	int idx1;
 	cin >> idx1;
 	cout<<"ngo the sonaaaaaaaa";
+	xuatMang(myArray, nSize);
 	xoaGiaTri(myArray, nSize, idx1);
 	
 	xuatMang(myArray, nSize);
