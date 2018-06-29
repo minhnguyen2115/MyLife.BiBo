@@ -104,11 +104,11 @@ int main()
 	cout << "nhap gia tri can them: ";
 	int x;
 	cin >> x;
-
+	
 	cout << "vi tri can them: ";
 	int idx;
 	cin >> idx;
-	
+	xuatMang(myArray, nSize);
 	themGiaTri(myArray, nSize, idx, x);
 	xuatMang(myArray, nSize);
 	
