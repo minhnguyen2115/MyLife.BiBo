@@ -112,15 +112,21 @@ int main()
 	themGiaTri(myArray, nSize, idx, x);
 	xuatMang(myArray, nSize);
 	
+	nhapMang(myArray, nSize);
+	
 	cout << "vi tri can xoa: ";
 	int idx1;
 	cin >> idx1;
 	cout<<"ngo the sonaaaaaaaa";
 	xoaGiaTri(myArray, nSize, idx1);
 	
+<<<<<<< HEAD
 	xuatMang(myArray, nSize);
 	
 	xoaGiaTri(myArray, nSize, idx1);
+=======
+	
+>>>>>>> 67a335fedf7feb83a61ed38effbee85f3962be62
 
 	system("pause");
 	return 0;
