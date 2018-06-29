@@ -119,7 +119,7 @@ int main()
 	cout<<"ngo the sonaaaaaaaa";
 	xoaGiaTri(myArray, nSize, idx1);
 	
-	xuatMang(myArray, nSize);
+	
 
 	system("pause");
 	return 0;
