@@ -5,4 +5,8 @@ abc
 àdwkasbfabjab
 >>>>>>> f4c1d8b50a95d69b7b034a9b280ce2245da8d24e
 ngo the son
+<<<<<<< HEAD
 ddfgh
+=======
+scmksadnclkanslkcmslkmsa
+>>>>>>> b6db9e51c580994e1dc20201e43868805428027a
