@@ -111,6 +111,8 @@ int main()
 	
 	themGiaTri(myArray, nSize, idx, x);
 	
+	nhapMang(myArray, nSize);
+	
 	cout << "vi tri can xoa: ";
 	int idx1;
 	cin >> idx1;
